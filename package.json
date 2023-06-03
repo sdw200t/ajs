@@ -1,11 +1,19 @@
 {
   "name": "@sdw200t/ajs",
   "version": "1.0.0",
-  "description": "",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdw200t/ajs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sdw200t/ajs/issues"
+  },
+  "homepage": "https://github.com/sdw200t/ajs#readme",
+  "description": ""
 }
